@@ -1,6 +1,6 @@
-# Loopstudios Website
+# Shortly Website
 
-Loopstudios landing page Tailwind 
+Shortly for make links shorter, landing page Tailwind 
 
 ## Usage
 Clone Repo
